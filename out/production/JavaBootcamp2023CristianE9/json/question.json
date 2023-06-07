@@ -1,0 +1,7 @@
+{
+  "category": "Programacion",
+  "question": "¿Qué es la 'herencia' en programación orientada a objetos?",
+  "options": ["Una forma de crear nuevas clases utilizando clases que ya han sido definidas", "La capacidad de un objeto para transformarse en otro objeto", "Una forma de empaquetar datos y funciones en un solo componente", "El proceso de organizar objetos en jerarquías de clase"],
+  "answer": 0,
+  "explanation": "La herencia es un principio de la programación orientada a objetos en el que una nueva clase se deriva de una clase existente. Esto permite reutilizar, extender o modificar los atributos y comportamientos que están en la clase existente."
+}
